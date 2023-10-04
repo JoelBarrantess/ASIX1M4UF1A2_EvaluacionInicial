@@ -1,2 +1,57 @@
-# ASIX1M4UF1A2_EvaluacionInicial
-Primer repositorio en ASIX1 2324
+#
+
+## Evaluación inicial
+
+1. ¿Qué es una página web?
+   
+<font color=#800000>**Una Página Web es un documento electrónico que forma parte de la WWW (World Wide Web) generalmente construido en el lenguaje HTML, esta contiene cualquier tipo de informacion o de lo que el usuario que crea la pagina web quiera.**</font>
+
+1. ¿Qué es un sitio web?
+
+<font color=#800000>**Un sitio web es un conjunto de archivos y páginas web referentes a qualquier tema en particular, incluyendo una página inicial de bienvenida generalmente llamada con el nombre index.html, a los cuales se puede acceder a través de un nombre de dominio y una dirección IP escpecifica.**</font>
+
+3. ¿Qué es una aplicación web?
+
+<font color=#800000>**Son programas que funcionan en internet. Es decir, que los datos o los archivos en los que trabajas son procesados y almacenados dentro de la web.**</font>
+
+4. ¿Qué es una herramienta ofimática?
+
+<font color=#800000>**Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una presentación...**</font>
+
+5.	[Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/):
+
+  | Aplicaciones | Visto |
+  | :----------- | :----------- |
+  | Google Docs | ✔ |
+  | Google Slides | ✔ |
+  | Google Sheets | ✔ |
+  | Google Calendar | 📅 |
+  | Google Meet | 💻 |
+  | ... | ... |
+
+6.¿Qué es `HTML`?
+
+<font color=#800000>**Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.**</font>
+  
+  ```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+  ```
+7.¿Qué es `CSS`?
+
+  <font color=#800000>**CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como los
+elementos HTML deberían ser mostrados.**</font>
+
+8.Flujo de trabajo (navegador, petición, servidor y respuesta):
+
+![Imagen](imagen.png "Imagen de Flujo de trabajo")
