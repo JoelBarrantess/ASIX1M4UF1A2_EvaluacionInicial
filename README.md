@@ -21,7 +21,7 @@
 5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/):
 
   | Aplicaciones | Visto |
-  | :----------- | :----------- |
+  | ----------- | ----------- |
   | Google Docs | ✔ |
   | Google Slides | ✔ |
   | Google Sheets | ✔ |
@@ -54,4 +54,4 @@ elementos HTML deberían ser mostrados.**
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-![Imagen](imagen.png "Imagen de Flujo de trabajo")
+![Imagen](./Imagen.PNG "Imagen de Flujo de trabajo")
